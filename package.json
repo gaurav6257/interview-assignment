@@ -1,0 +1,24 @@
+{
+  "name": "interview-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaurav6257/interview-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaurav6257/interview-assignment/issues"
+  },
+  "homepage": "https://github.com/gaurav6257/interview-assignment#readme"
+}
