@@ -57,7 +57,7 @@ app.delete('/deleteProduct/:id', function (req, res) {
    }
 })
 
-app.listen(8080, function() {
-   console.log('Server started')
-});
- 
+// app.listen(8080, function() {
+//    console.log('Server started')
+// });
+module.exports = app;
